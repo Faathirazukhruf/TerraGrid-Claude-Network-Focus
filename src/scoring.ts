@@ -212,71 +212,104 @@ function generateRecommendationAndRisk(
   primaryGoalId?: GoalId
 ): { recommendedMove: string; riskIfIgnored: string } {
   const notesLower = `${contact.lastContactSummary} ${contact.notes}`.toLowerCase();
+  const tagsLower = contact.tags.map(t => t.toLowerCase());
+  const company = contact.company || 'target organization';
 
-  if (contact.name.toLowerCase().includes('marcus wei')) {
+  // 1. Teaser deck sent / full pitch requested
+  if (notesLower.includes('full pitch') || notesLower.includes('teaser deck')) {
     return {
-      recommendedMove: 'Send the full Series C pitch deck and propose a 30-minute deep-dive meeting next week.',
-      riskIfIgnored: 'Loses momentum on Sequoia interest; Sequoia lead partner may allocate bandwidth to competing deals.'
+      recommendedMove: `Send the full Series C pitch deck to ${company} and propose a 30-minute deep-dive meeting next week.`,
+      riskIfIgnored: `Loses momentum on ${company} interest; partner bandwidth may be allocated to competing Q3 deals.`
     };
   }
-  if (contact.name.toLowerCase().includes('diana chen')) {
+
+  // 2. Mentorship / CTO candidate referral offer
+  if (
+    (notesLower.includes('offered to help') || notesLower.includes('cto search') || notesLower.includes('strong candidates')) &&
+    (primaryGoalId === 'cto_hire' || tagsLower.includes('mentor') || tagsLower.includes('cto-search'))
+  ) {
     return {
-      recommendedMove: 'Follow up immediately thanking her for the mentorship offer and request introductions to the 3-4 CTO candidates she highlighted.',
-      riskIfIgnored: 'Wastes a warm executive referral offer; Stripe CTO candidates may take other roles in a tight talent market.'
+      recommendedMove: `Follow up to thank them for the offer and request introductions to the candidate profiles they highlighted.`,
+      riskIfIgnored: `Fails to capitalize on a warm executive referral pipeline from a trusted mentor/connector.`
     };
   }
-  if (contact.name.toLowerCase().includes('maya patel')) {
+
+  // 3. Revisit in a month / Timing window for candidate
+  if (notesLower.includes('revisit in a month') || notesLower.includes('window opens')) {
     return {
-      recommendedMove: 'Send a targeted note initiating the 1-month follow-up window to discuss the TerraGrid CTO role and vision.',
-      riskIfIgnored: 'Misses the optimal engagement window before she enters other late-stage leadership interview loops.'
+      recommendedMove: `Send a targeted note to initiate the upcoming conversation window regarding the TerraGrid CTO role.`,
+      riskIfIgnored: `Misses the optimal engagement window before the candidate enters other late-stage leadership interview loops.`
     };
   }
-  if (contact.name.toLowerCase().includes('paul christiano')) {
+
+  // 4. AI Safety Research & Evaluation paper follow-up
+  if (
+    primaryGoalId === 'ai_safety' &&
+    (notesLower.includes('eval paper') || notesLower.includes('concrete questions') || notesLower.includes('paper'))
+  ) {
     return {
-      recommendedMove: 'Send a structured follow-up email proposing concrete AI evaluation questions and explore an alignment collaboration between TerraGrid and ARC Evals.',
-      riskIfIgnored: 'Fails to establish institutional credibility with top-tier AI safety evaluators early in TerraGrid’s product lifecycle.'
+      recommendedMove: `Send a structured follow-up email proposing concrete evaluation questions to explore technical alignment collaboration with ${company}.`,
+      riskIfIgnored: `Fails to establish institutional credibility and technical touchpoints with ${company}.`
     };
   }
-  if (contact.name.toLowerCase().includes('reid hoffman')) {
+
+  // 5. High-leverage dormant investor (pre-seed / seed relationship)
+  if (
+    contact.daysSinceLastContact >= 60 &&
+    (notesLower.includes('pre-seed') || notesLower.includes('seed round') || contact.howSheKnowsThem.toLowerCase() === 'investor') &&
+    primaryGoalId === 'series_c'
+  ) {
     return {
-      recommendedMove: 'Send a personalized email with a brief Series C update and request a 20-minute catch-up call on Greylock signaling and round dynamics.',
-      riskIfIgnored: 'Alienates the CEO’s strongest pre-seed investor and key signaling partner for the Series C round.'
+      recommendedMove: `Send a personalized email with a brief Series C update and request a 20-minute catch-up call on ${company} signaling and round dynamics.`,
+      riskIfIgnored: `Leaves a key institutional investor champion and signaling partner cold ahead of the Q3 Series C process.`
     };
   }
-  if (contact.name.toLowerCase().includes('priya mehta')) {
+
+  // 6. Owed favor / Peer executive
+  if (notesLower.includes('owed-favor') || notesLower.includes('owes her one') || tagsLower.includes('owed-favor')) {
     return {
-      recommendedMove: 'Send a high-level update on TerraGrid growth metrics since seed and gauge Index Ventures appetite for Series C participation.',
-      riskIfIgnored: 'Leaves a Tier-1 venture partner completely cold ahead of the Q3 Series C process.'
+      recommendedMove: `Send a brief peer note activating the relationship to request targeted executive introductions or strategic advice.`,
+      riskIfIgnored: `Social capital from previous favors fades without being leveraged for quarterly priorities.`
     };
   }
-  if (contact.name.toLowerCase().includes('brian armstrong')) {
+
+  // 7. Unanswered follow-up / Nudge
+  if (notesLower.includes('unanswered') || notesLower.includes('one more nudge')) {
     return {
-      recommendedMove: 'Send a quick peer note requesting a targeted introduction to scaling VP Eng candidates or AI governance leaders.',
-      riskIfIgnored: 'The social capital from the recent board candidate referral fades without being leveraged.'
+      recommendedMove: `Send a low-friction nudge email referencing the previous discussion to determine interest.`,
+      riskIfIgnored: `Discussion stalls indefinitely without a definitive next step.`
+    };
+  }
+
+  // 8. Open in a year / Scaling leadership candidate
+  if (notesLower.includes('open in a year') || notesLower.includes('waiting for the right opportunity') || notesLower.includes('open to chat')) {
+    return {
+      recommendedMove: `Schedule an informal catch-up to share TerraGrid's scaling roadmap and test appetite for advisory or leadership transition.`,
+      riskIfIgnored: `Candidate signs with competing growth-stage startups without TerraGrid having pitched the vision.`
     };
   }
 
   // Fallbacks based on goal
   if (primaryGoalId === 'series_c') {
     return {
-      recommendedMove: `Send a concise quarterly progress memo and request a 20-minute discussion regarding Series C round timing.`,
-      riskIfIgnored: 'Leaves venture interest uncultivated, weakening competitive tension for the upcoming Series C fundraise.'
+      recommendedMove: `Send a concise update regarding TerraGrid's growth metrics and request a 20-minute discussion regarding Series C round timing.`,
+      riskIfIgnored: `Leaves venture interest uncultivated, weakening competitive tension for the upcoming Series C fundraise.`
     };
   } else if (primaryGoalId === 'cto_hire') {
     return {
-      recommendedMove: `Reach out with specific profile requirements for the 50-to-200 engineering scale CTO role and ask for recommended leaders.`,
-      riskIfIgnored: 'Extends executive search timeline and leaves engineering leadership vacant during critical scaling phase.'
+      recommendedMove: `Reach out with specific profile requirements for the 50-to-200 engineering scale CTO role and ask for recommended candidates.`,
+      riskIfIgnored: `Extends executive search timeline and leaves engineering leadership vacant during critical scaling phase.`
     };
   } else if (primaryGoalId === 'ai_safety') {
     return {
-      recommendedMove: `Follow up with technical thoughts on recent alignment papers and explore mutual research/safety touchpoints.`,
-      riskIfIgnored: 'TerraGrid remains isolated from key AI safety academic and industry research circles.'
+      recommendedMove: `Follow up with technical thoughts on alignment research and explore mutual research touchpoints with ${company}.`,
+      riskIfIgnored: `TerraGrid remains isolated from key AI safety academic and industry research circles.`
     };
   }
 
   return {
     recommendedMove: `Schedule a brief touchpoint to maintain relationship warmth.`,
-    riskIfIgnored: 'Relationship drifts into dormancy without clear mutual value creation.'
+    riskIfIgnored: `Relationship drifts into dormancy without clear mutual value creation.`
   };
 }
 

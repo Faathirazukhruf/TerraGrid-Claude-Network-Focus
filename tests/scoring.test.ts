@@ -105,4 +105,57 @@ describe('Deterministic Scoring Engine', () => {
 
     expect(scoreHigh.compositeScore).toBeGreaterThan(scoreLow.compositeScore);
   });
+
+  it('dynamically generates recommendations for unknown contact (Jane Doe) based on attributes', () => {
+    const unknownInvestor: Contact = {
+      name: 'Jane Doe',
+      role: 'General Partner',
+      company: 'Benchmark',
+      howSheKnowsThem: 'investor',
+      daysSinceLastContact: 12,
+      lastContactChannel: 'email',
+      lastContactSummary: 'Replied positively to teaser deck; asked to see full pitch.',
+      relationshipStrength: 4,
+      tags: ['investor', 'series-c'],
+      notes: 'Interested in leading the Series C round.',
+      rawRow: 99
+    };
+
+    const scoring = calculateScores(unknownInvestor);
+    expect(scoring.recommendedMove).toContain('Send the full Series C pitch deck to Benchmark');
+    expect(scoring.riskIfIgnored).toContain('Loses momentum on Benchmark interest');
+    expect(scoring.compositeScore).toBeGreaterThan(85);
+
+    // Verify name invariance: Changing name to any random string produces identical recommendations
+    const renamedContact: Contact = {
+      ...unknownInvestor,
+      name: 'Completely Random Name 987'
+    };
+    const renamedScoring = calculateScores(renamedContact);
+    expect(renamedScoring.recommendedMove).toBe(scoring.recommendedMove);
+    expect(renamedScoring.riskIfIgnored).toBe(scoring.riskIfIgnored);
+    expect(renamedScoring.compositeScore).toBe(scoring.compositeScore);
+  });
+
+  it('dynamically generates CTO referral recommendations for unknown mentor (John Smith)', () => {
+    const unknownMentor: Contact = {
+      name: 'John Smith',
+      role: 'Former CTO',
+      company: 'Datadog',
+      howSheKnowsThem: 'mentor',
+      daysSinceLastContact: 15,
+      lastContactChannel: 'call',
+      lastContactSummary: 'Offered to help with CTO search. Knows 3 strong candidates.',
+      relationshipStrength: 4,
+      tags: ['cto-search', 'mentor'],
+      notes: 'Offered to introduce VP Eng leaders.',
+      rawRow: 100
+    };
+
+    const scoring = calculateScores(unknownMentor);
+    expect(scoring.recommendedMove).toContain('request introductions to the candidate profiles');
+    expect(scoring.riskIfIgnored).toContain('Fails to capitalize on a warm executive referral pipeline');
+    expect(scoring.compositeScore).toBeGreaterThan(80);
+  });
 });
+

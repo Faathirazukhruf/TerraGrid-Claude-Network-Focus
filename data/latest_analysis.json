@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T01:25:27.339Z",
+  "generatedAt": "2026-09-15T01:43:50.116Z",
   "sourceFile": "C:\\Users\\faath\\TerraGrid-Claude-Network-Focus\\data\\Network Roster Terragrid.xlsx",
   "totalContacts": 25,
   "activeQuarterlyGoals": [
@@ -165,8 +165,8 @@
           "Relevant venture role: Partner",
           "Recent contact (16 days ago) provides immediate momentum"
         ],
-        "recommendedMove": "Send the full Series C pitch deck and propose a 30-minute deep-dive meeting next week.",
-        "riskIfIgnored": "Loses momentum on Sequoia interest; Sequoia lead partner may allocate bandwidth to competing deals."
+        "recommendedMove": "Send the full Series C pitch deck to Sequoia Capital and propose a 30-minute deep-dive meeting next week.",
+        "riskIfIgnored": "Loses momentum on Sequoia Capital interest; partner bandwidth may be allocated to competing Q3 deals."
       }
     },
     {
@@ -219,8 +219,8 @@
           "Relevant technical/talent role: CTO",
           "Recent contact (28 days ago) provides immediate momentum"
         ],
-        "recommendedMove": "Follow up immediately thanking her for the mentorship offer and request introductions to the 3-4 CTO candidates she highlighted.",
-        "riskIfIgnored": "Wastes a warm executive referral offer; Stripe CTO candidates may take other roles in a tight talent market."
+        "recommendedMove": "Follow up to thank them for the offer and request introductions to the candidate profiles they highlighted.",
+        "riskIfIgnored": "Fails to capitalize on a warm executive referral pipeline from a trusted mentor/connector."
       }
     },
     {
@@ -265,8 +265,8 @@
           "Relevant technical/talent role: VP Engineering",
           "Recent contact (13 days ago) provides immediate momentum"
         ],
-        "recommendedMove": "Send a targeted note initiating the 1-month follow-up window to discuss the TerraGrid CTO role and vision.",
-        "riskIfIgnored": "Misses the optimal engagement window before she enters other late-stage leadership interview loops."
+        "recommendedMove": "Send a targeted note to initiate the upcoming conversation window regarding the TerraGrid CTO role.",
+        "riskIfIgnored": "Misses the optimal engagement window before the candidate enters other late-stage leadership interview loops."
       }
     },
     {
@@ -313,8 +313,8 @@
           "AI safety research role: Researcher",
           "Recent contact (8 days ago) provides immediate momentum"
         ],
-        "recommendedMove": "Send a structured follow-up email proposing concrete AI evaluation questions and explore an alignment collaboration between TerraGrid and ARC Evals.",
-        "riskIfIgnored": "Fails to establish institutional credibility with top-tier AI safety evaluators early in TerraGrid’s product lifecycle."
+        "recommendedMove": "Send a structured follow-up email proposing concrete evaluation questions to explore technical alignment collaboration with ARC Evals.",
+        "riskIfIgnored": "Fails to establish institutional credibility and technical touchpoints with ARC Evals."
       }
     },
     {
@@ -358,8 +358,8 @@
           "Affiliated with target ecosystem entity \"Google\"",
           "Relevant technical/talent role: Senior Engineering Manager"
         ],
-        "recommendedMove": "Reach out with specific profile requirements for the 50-to-200 engineering scale CTO role and ask for recommended leaders.",
-        "riskIfIgnored": "Extends executive search timeline and leaves engineering leadership vacant during critical scaling phase."
+        "recommendedMove": "Schedule an informal catch-up to share TerraGrid's scaling roadmap and test appetite for advisory or leadership transition.",
+        "riskIfIgnored": "Candidate signs with competing growth-stage startups without TerraGrid having pitched the vision."
       }
     }
   ],
@@ -413,7 +413,7 @@
           "Relevant venture role: Partner"
         ],
         "recommendedMove": "Send a personalized email with a brief Series C update and request a 20-minute catch-up call on Greylock signaling and round dynamics.",
-        "riskIfIgnored": "Alienates the CEO’s strongest pre-seed investor and key signaling partner for the Series C round."
+        "riskIfIgnored": "Leaves a key institutional investor champion and signaling partner cold ahead of the Q3 Series C process."
       }
     },
     {
@@ -461,8 +461,8 @@
           "Affiliated with target ecosystem entity \"Index Ventures\"",
           "Relevant venture role: Partner"
         ],
-        "recommendedMove": "Send a high-level update on TerraGrid growth metrics since seed and gauge Index Ventures appetite for Series C participation.",
-        "riskIfIgnored": "Leaves a Tier-1 venture partner completely cold ahead of the Q3 Series C process."
+        "recommendedMove": "Send a personalized email with a brief Series C update and request a 20-minute catch-up call on Index Ventures signaling and round dynamics.",
+        "riskIfIgnored": "Leaves a key institutional investor champion and signaling partner cold ahead of the Q3 Series C process."
       }
     }
   ],
@@ -512,8 +512,8 @@
           "Relevant venture role: Partner",
           "Recent contact (16 days ago) provides immediate momentum"
         ],
-        "recommendedMove": "Send the full Series C pitch deck and propose a 30-minute deep-dive meeting next week.",
-        "riskIfIgnored": "Loses momentum on Sequoia interest; Sequoia lead partner may allocate bandwidth to competing deals."
+        "recommendedMove": "Send the full Series C pitch deck to Sequoia Capital and propose a 30-minute deep-dive meeting next week.",
+        "riskIfIgnored": "Loses momentum on Sequoia Capital interest; partner bandwidth may be allocated to competing Q3 deals."
       }
     },
     {
@@ -566,8 +566,8 @@
           "Relevant technical/talent role: CTO",
           "Recent contact (28 days ago) provides immediate momentum"
         ],
-        "recommendedMove": "Follow up immediately thanking her for the mentorship offer and request introductions to the 3-4 CTO candidates she highlighted.",
-        "riskIfIgnored": "Wastes a warm executive referral offer; Stripe CTO candidates may take other roles in a tight talent market."
+        "recommendedMove": "Follow up to thank them for the offer and request introductions to the candidate profiles they highlighted.",
+        "riskIfIgnored": "Fails to capitalize on a warm executive referral pipeline from a trusted mentor/connector."
       }
     },
     {
@@ -612,8 +612,8 @@
           "Relevant technical/talent role: VP Engineering",
           "Recent contact (13 days ago) provides immediate momentum"
         ],
-        "recommendedMove": "Send a targeted note initiating the 1-month follow-up window to discuss the TerraGrid CTO role and vision.",
-        "riskIfIgnored": "Misses the optimal engagement window before she enters other late-stage leadership interview loops."
+        "recommendedMove": "Send a targeted note to initiate the upcoming conversation window regarding the TerraGrid CTO role.",
+        "riskIfIgnored": "Misses the optimal engagement window before the candidate enters other late-stage leadership interview loops."
       }
     },
     {
@@ -660,8 +660,8 @@
           "AI safety research role: Researcher",
           "Recent contact (8 days ago) provides immediate momentum"
         ],
-        "recommendedMove": "Send a structured follow-up email proposing concrete AI evaluation questions and explore an alignment collaboration between TerraGrid and ARC Evals.",
-        "riskIfIgnored": "Fails to establish institutional credibility with top-tier AI safety evaluators early in TerraGrid’s product lifecycle."
+        "recommendedMove": "Send a structured follow-up email proposing concrete evaluation questions to explore technical alignment collaboration with ARC Evals.",
+        "riskIfIgnored": "Fails to establish institutional credibility and technical touchpoints with ARC Evals."
       }
     },
     {
@@ -705,8 +705,8 @@
           "Affiliated with target ecosystem entity \"Google\"",
           "Relevant technical/talent role: Senior Engineering Manager"
         ],
-        "recommendedMove": "Reach out with specific profile requirements for the 50-to-200 engineering scale CTO role and ask for recommended leaders.",
-        "riskIfIgnored": "Extends executive search timeline and leaves engineering leadership vacant during critical scaling phase."
+        "recommendedMove": "Schedule an informal catch-up to share TerraGrid's scaling roadmap and test appetite for advisory or leadership transition.",
+        "riskIfIgnored": "Candidate signs with competing growth-stage startups without TerraGrid having pitched the vision."
       }
     },
     {
@@ -758,7 +758,7 @@
           "Relevant venture role: Partner"
         ],
         "recommendedMove": "Send a personalized email with a brief Series C update and request a 20-minute catch-up call on Greylock signaling and round dynamics.",
-        "riskIfIgnored": "Alienates the CEO’s strongest pre-seed investor and key signaling partner for the Series C round."
+        "riskIfIgnored": "Leaves a key institutional investor champion and signaling partner cold ahead of the Q3 Series C process."
       }
     },
     {
@@ -802,8 +802,8 @@
           "Affiliated with target ecosystem entity \"Notion\"",
           "Relevant technical/talent role: VP Engineering"
         ],
-        "recommendedMove": "Reach out with specific profile requirements for the 50-to-200 engineering scale CTO role and ask for recommended leaders.",
-        "riskIfIgnored": "Extends executive search timeline and leaves engineering leadership vacant during critical scaling phase."
+        "recommendedMove": "Send a low-friction nudge email referencing the previous discussion to determine interest.",
+        "riskIfIgnored": "Discussion stalls indefinitely without a definitive next step."
       }
     },
     {
@@ -845,7 +845,7 @@
           "Affiliated with target ecosystem entity \"Pinterest\"",
           "Recent contact (23 days ago) provides immediate momentum"
         ],
-        "recommendedMove": "Reach out with specific profile requirements for the 50-to-200 engineering scale CTO role and ask for recommended leaders.",
+        "recommendedMove": "Reach out with specific profile requirements for the 50-to-200 engineering scale CTO role and ask for recommended candidates.",
         "riskIfIgnored": "Extends executive search timeline and leaves engineering leadership vacant during critical scaling phase."
       }
     },
@@ -890,8 +890,8 @@
           "Affiliated with target ecosystem entity \"Anthropic\"",
           "AI safety research role: Researcher"
         ],
-        "recommendedMove": "Follow up with technical thoughts on recent alignment papers and explore mutual research/safety touchpoints.",
-        "riskIfIgnored": "TerraGrid remains isolated from key AI safety academic and industry research circles."
+        "recommendedMove": "Send a structured follow-up email proposing concrete evaluation questions to explore technical alignment collaboration with Anthropic.",
+        "riskIfIgnored": "Fails to establish institutional credibility and technical touchpoints with Anthropic."
       }
     },
     {
@@ -937,7 +937,7 @@
           "Affiliated with target ecosystem entity \"ARC\"",
           "AI safety research role: Researcher"
         ],
-        "recommendedMove": "Follow up with technical thoughts on recent alignment papers and explore mutual research/safety touchpoints.",
+        "recommendedMove": "Follow up with technical thoughts on alignment research and explore mutual research touchpoints with MIT CSAIL.",
         "riskIfIgnored": "TerraGrid remains isolated from key AI safety academic and industry research circles."
       }
     },
@@ -981,7 +981,7 @@
           "Affiliated with target ecosystem entity \"Stanford CSAIL\"",
           "Recent contact (26 days ago) provides immediate momentum"
         ],
-        "recommendedMove": "Follow up with technical thoughts on recent alignment papers and explore mutual research/safety touchpoints.",
+        "recommendedMove": "Follow up with technical thoughts on alignment research and explore mutual research touchpoints with Recur.",
         "riskIfIgnored": "TerraGrid remains isolated from key AI safety academic and industry research circles."
       }
     },
@@ -1035,7 +1035,7 @@
           "Relevant technical/talent role: Head of Talent",
           "Recent contact (18 days ago) provides immediate momentum"
         ],
-        "recommendedMove": "Reach out with specific profile requirements for the 50-to-200 engineering scale CTO role and ask for recommended leaders.",
+        "recommendedMove": "Reach out with specific profile requirements for the 50-to-200 engineering scale CTO role and ask for recommended candidates.",
         "riskIfIgnored": "Extends executive search timeline and leaves engineering leadership vacant during critical scaling phase."
       }
     },
@@ -1089,7 +1089,7 @@
           "Relevant venture role: Founder",
           "Recent contact (20 days ago) provides immediate momentum"
         ],
-        "recommendedMove": "Send a concise quarterly progress memo and request a 20-minute discussion regarding Series C round timing.",
+        "recommendedMove": "Send a concise update regarding TerraGrid's growth metrics and request a 20-minute discussion regarding Series C round timing.",
         "riskIfIgnored": "Leaves venture interest uncultivated, weakening competitive tension for the upcoming Series C fundraise."
       }
     },
@@ -1132,7 +1132,7 @@
           "Tagged as Engineering Talent Connector / Org Advisor",
           "Affiliated with target ecosystem entity \"Discord\""
         ],
-        "recommendedMove": "Reach out with specific profile requirements for the 50-to-200 engineering scale CTO role and ask for recommended leaders.",
+        "recommendedMove": "Reach out with specific profile requirements for the 50-to-200 engineering scale CTO role and ask for recommended candidates.",
         "riskIfIgnored": "Extends executive search timeline and leaves engineering leadership vacant during critical scaling phase."
       }
     },
@@ -1174,8 +1174,8 @@
           "Tagged as CTO candidate / search lead",
           "Affiliated with target ecosystem entity \"Block\""
         ],
-        "recommendedMove": "Reach out with specific profile requirements for the 50-to-200 engineering scale CTO role and ask for recommended leaders.",
-        "riskIfIgnored": "Extends executive search timeline and leaves engineering leadership vacant during critical scaling phase."
+        "recommendedMove": "Schedule an informal catch-up to share TerraGrid's scaling roadmap and test appetite for advisory or leadership transition.",
+        "riskIfIgnored": "Candidate signs with competing growth-stage startups without TerraGrid having pitched the vision."
       }
     },
     {
@@ -1223,8 +1223,8 @@
           "Affiliated with target ecosystem entity \"Index Ventures\"",
           "Relevant venture role: Partner"
         ],
-        "recommendedMove": "Send a high-level update on TerraGrid growth metrics since seed and gauge Index Ventures appetite for Series C participation.",
-        "riskIfIgnored": "Leaves a Tier-1 venture partner completely cold ahead of the Q3 Series C process."
+        "recommendedMove": "Send a personalized email with a brief Series C update and request a 20-minute catch-up call on Index Ventures signaling and round dynamics.",
+        "riskIfIgnored": "Leaves a key institutional investor champion and signaling partner cold ahead of the Q3 Series C process."
       }
     },
     {
@@ -1268,7 +1268,7 @@
           "Affiliated with target ecosystem entity \"Lightspeed Ventures\"",
           "Relevant venture role: Partner"
         ],
-        "recommendedMove": "Send a concise quarterly progress memo and request a 20-minute discussion regarding Series C round timing.",
+        "recommendedMove": "Send a concise update regarding TerraGrid's growth metrics and request a 20-minute discussion regarding Series C round timing.",
         "riskIfIgnored": "Leaves venture interest uncultivated, weakening competitive tension for the upcoming Series C fundraise."
       }
     },
@@ -1311,7 +1311,7 @@
           "Tagged with AI Safety focus",
           "Affiliated with target ecosystem entity \"DeepMind\""
         ],
-        "recommendedMove": "Follow up with technical thoughts on recent alignment papers and explore mutual research/safety touchpoints.",
+        "recommendedMove": "Follow up with technical thoughts on alignment research and explore mutual research touchpoints with DeepMind.",
         "riskIfIgnored": "TerraGrid remains isolated from key AI safety academic and industry research circles."
       }
     },
@@ -1351,7 +1351,7 @@
         "priorityReasons": [
           "Affiliated with target ecosystem entity \"Stripe\""
         ],
-        "recommendedMove": "Reach out with specific profile requirements for the 50-to-200 engineering scale CTO role and ask for recommended leaders.",
+        "recommendedMove": "Reach out with specific profile requirements for the 50-to-200 engineering scale CTO role and ask for recommended candidates.",
         "riskIfIgnored": "Extends executive search timeline and leaves engineering leadership vacant during critical scaling phase."
       }
     },
@@ -1389,7 +1389,7 @@
         "priorityReasons": [
           "Recent contact (6 days ago) provides immediate momentum"
         ],
-        "recommendedMove": "Follow up with technical thoughts on recent alignment papers and explore mutual research/safety touchpoints.",
+        "recommendedMove": "Follow up with technical thoughts on alignment research and explore mutual research touchpoints with Pipedrive.",
         "riskIfIgnored": "TerraGrid remains isolated from key AI safety academic and industry research circles."
       }
     },
@@ -1513,8 +1513,8 @@
         "isDormantHighLeverage": false,
         "dormancyReasons": [],
         "priorityReasons": [],
-        "recommendedMove": "Send a quick peer note requesting a targeted introduction to scaling VP Eng candidates or AI governance leaders.",
-        "riskIfIgnored": "The social capital from the recent board candidate referral fades without being leveraged."
+        "recommendedMove": "Send a brief peer note activating the relationship to request targeted executive introductions or strategic advice.",
+        "riskIfIgnored": "Social capital from previous favors fades without being leveraged for quarterly priorities."
       }
     },
     {

@@ -13,31 +13,31 @@ This week’s network intelligence highlights high-momentum inflection points ac
 ### [1] Marcus Wei — Partner, Sequoia Capital
 - **Goal Alignment**: Raise Series C by end of Q3 ($40M @ $200M valuation) | **Priority Score**: 94/100
 - **Why They Matter**: Warm introduction via Greylock. Replied positively to the initial teaser deck and explicitly requested the full pitch deck.
-- **Recommended Move**: Send the full Series C pitch deck today with a concise memo on unit economics and propose a 30-minute partner meeting next week.
-- **Risk of Inaction**: Sequoia partner bandwidth is rapidly committed to competing Q3 SaaS deals; delay signals low founder velocity.
+- **Recommended Move**: Send the full Series C pitch deck to Sequoia Capital and propose a 30-minute deep-dive meeting next week.
+- **Risk of Inaction**: Loses momentum on Sequoia interest; partner bandwidth may be allocated to competing Q3 deals.
 
 ### [2] Diana Chen — CTO, Stripe
 - **Goal Alignment**: Hire CTO (Scaling 50 to 200+ engineering org) | **Priority Score**: 93/100
 - **Why They Matter**: High-trust mentor (Relationship Strength: 4/5) who offered to help with the CTO search and identified 3–4 strong candidates. CEO has not yet followed up.
-- **Recommended Move**: Send a follow-up email thanking her for the offer and request an introductory list or email intros for the 3–4 candidates she highlighted.
-- **Risk of Inaction**: Unresponsive behavior harms a tier-1 executive mentorship relationship and lets prime candidate pipelines go cold.
+- **Recommended Move**: Follow up to thank her for the mentorship offer and request introductions to the 3–4 CTO candidate profiles she highlighted.
+- **Risk of Inaction**: Fails to capitalize on a warm executive referral pipeline from a trusted mentor.
 
 ### [3] Maya Patel — VP Engineering, Slack
 - **Goal Alignment**: Hire CTO (Direct Executive Candidate) | **Priority Score**: 93/100
 - **Why They Matter**: Direct candidate who successfully scaled Slack engineering from 40 to 180. Expressed interest during recent coffee and specified a "revisit in a month" window that opens in ~2 weeks.
-- **Recommended Move**: Send an informal check-in note with recent TerraGrid product milestones to warm up the conversation before the formal CTO interview loop opens.
-- **Risk of Inaction**: Candidate enters other late-stage executive loops before TerraGrid initiates formal discussions.
+- **Recommended Move**: Send a targeted note to initiate the upcoming conversation window regarding the TerraGrid CTO role.
+- **Risk of Inaction**: Misses the optimal engagement window before the candidate enters other late-stage leadership interview loops.
 
 ### [4] Paul Christiano — Researcher, ARC Evals
 - **Goal Alignment**: Build AI Safety Relationships (Evals & Partnerships) | **Priority Score**: 83/100
 - **Why They Matter**: Connected via Anthropic intro; expressed positive interest in TerraGrid’s product following his recent alignment paper.
-- **Recommended Move**: Send a targeted email with 2–3 concrete technical evaluation questions regarding TerraGrid’s safety stack and propose a 20-minute virtual technical sync.
-- **Risk of Inaction**: Misses an early opportunity to establish institutional alignment credibility with a leading AI safety lab.
+- **Recommended Move**: Send a structured follow-up email proposing concrete evaluation questions to explore technical alignment collaboration with ARC Evals.
+- **Risk of Inaction**: Fails to establish institutional credibility and technical touchpoints with ARC Evals early in TerraGrid’s product lifecycle.
 
 ### [5] David Liu — Senior Engineering Manager, Google
 - **Goal Alignment**: Hire CTO (Scaling Candidate / Advisor) | **Priority Score**: 83/100
 - **Why They Matter**: Ex-colleague who has scaled teams from 50 to 300; indicated potential openness to leaving Google within a year.
-- **Recommended Move**: Schedule a low-pressure coffee catch-up to share TerraGrid’s long-term technical roadmap and test appetite for advisory or full-time CTO transition.
+- **Recommended Move**: Schedule an informal catch-up to share TerraGrid's scaling roadmap and test appetite for advisory or leadership transition.
 - **Risk of Inaction**: Candidate signs with competing growth-stage startups without TerraGrid having pitched the vision.
 
 ---
@@ -47,14 +47,14 @@ This week’s network intelligence highlights high-momentum inflection points ac
 ### [1] Reid Hoffman — Partner, Greylock (Relationship Strength: 4/5)
 - **Dormancy Status**: Last contacted **81 days ago** (saw him briefly at CES; expressed interest in Series C plans).
 - **Strategic Leverage**: Pre-seed lead investor and CEO's highest-leverage investor ally. Greylock participation and signaling are critical for anchoring the Series C syndicate.
-- **Reactivation Move**: Send a personalized email sharing Q2 metrics, customer momentum, and request a 20-minute strategy call on Series C syndicate dynamics.
-- **Risk of Inaction**: Neglects key investor champion; Greylock may pass on participating or providing lead reference signals.
+- **Reactivation Move**: Send a personalized email with a brief Series C update and request a 20-minute catch-up call on Greylock signaling and round dynamics.
+- **Risk of Inaction**: Leaves a key institutional investor champion and signaling partner cold ahead of the Q3 Series C process.
 
 ### [2] Priya Mehta — Partner, Index Ventures (Relationship Strength: 2/5)
 - **Dormancy Status**: Last contacted **128 days ago** (seed round coffee).
 - **Strategic Leverage**: Strong tier-1 enterprise SaaS fund fit for Series C co-lead or major syndicate participant.
-- **Reactivation Move**: Send a brief growth update email highlighting ARR expansion and invite her to a preview of the Series C deck.
-- **Risk of Inaction**: Leaves an institutional tier-1 VC completely cold when round momentum launches.
+- **Reactivation Move**: Send a concise update regarding TerraGrid's growth progress since the seed round and request a 20-minute discussion regarding Series C round timing.
+- **Risk of Inaction**: Leaves a Tier-1 venture partner completely cold ahead of the Q3 Series C process.
 
 ---
 
