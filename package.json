@@ -1,0 +1,30 @@
+{
+  "name": "terragrid-weekly-network-focus",
+  "version": "1.0.0",
+  "description": "Deterministic analysis engine and Claude Code Skill for TerraGrid executive network prioritization",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "analyze": "tsx src/cli.ts",
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "keywords": [
+    "claude-skill",
+    "terragrid",
+    "network-intelligence",
+    "executive-brief"
+  ],
+  "author": "TerraGrid AI Builder Partner",
+  "license": "MIT",
+  "dependencies": {
+    "xlsx": "^0.18.5",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.1",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2",
+    "vitest": "^2.1.8"
+  }
+}

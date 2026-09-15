@@ -1,0 +1,1628 @@
+{
+  "generatedAt": "2026-09-15T01:25:27.339Z",
+  "sourceFile": "C:\\Users\\faath\\TerraGrid-Claude-Network-Focus\\data\\Network Roster Terragrid.xlsx",
+  "totalContacts": 25,
+  "activeQuarterlyGoals": [
+    {
+      "id": "series_c",
+      "title": "Raise Series C by end of Q3",
+      "target": "$40M at $200M valuation",
+      "description": "Securing a tier-1 lead investor and building strong signaling relationships across target venture partners (including Sequoia, a16z, Greylock, Index, Lightspeed, and Conviction).",
+      "targetEntities": [
+        "Sequoia",
+        "a16z",
+        "Greylock",
+        "Index Ventures",
+        "Lightspeed Ventures",
+        "Conviction VC"
+      ],
+      "keyCriteria": [
+        "Lead investor interest / full pitch requested",
+        "High-conviction signaling partners",
+        "Venture partners with previous round relationships or active SaaS/AI focus"
+      ],
+      "keywords": [
+        "investor",
+        "series-c",
+        "series c",
+        "fundraise",
+        "valuation",
+        "pitch",
+        "deck",
+        "venture",
+        "vc",
+        "seed round",
+        "pre-seed",
+        "sequoia",
+        "a16z",
+        "andreessen",
+        "greylock",
+        "conviction",
+        "lightspeed",
+        "index ventures"
+      ]
+    },
+    {
+      "id": "cto_hire",
+      "title": "Hire Chief Technology Officer (CTO)",
+      "target": "Experience scaling engineering team from 50 to 200+ engineers",
+      "description": "Sourcing direct candidates and activating high-leverage talent connectors, advisors, and mentors who can introduce or evaluate proven VP Eng / CTO executives.",
+      "keyCriteria": [
+        "Proven track record scaling tech orgs (50 to 200+)",
+        "Active candidate discussions with pending follow-up windows",
+        "Mentors and talent leaders actively offering candidate pipelines"
+      ],
+      "targetEntities": [
+        "Stripe",
+        "Slack",
+        "Notion",
+        "Google",
+        "Pinterest",
+        "Block",
+        "Discord",
+        "Coatue"
+      ],
+      "keywords": [
+        "cto",
+        "cto-candidate",
+        "cto-search",
+        "vp engineering",
+        "vp eng",
+        "engineering manager",
+        "talent",
+        "talent-network",
+        "eng-org",
+        "scale engineering",
+        "scaled teams",
+        "scaling",
+        "head of ai",
+        "advisor"
+      ]
+    },
+    {
+      "id": "ai_safety",
+      "title": "Build AI Safety Relationships",
+      "target": "Establish meaningful partnerships with researchers, institutes, and academic hubs",
+      "description": "Deepening ties with AI safety researchers, organizations (Anthropic, ARC Evals, MIRI), conferences (EA Global, AI Engineer Summit), and academic labs (MIT CSAIL, Stanford CSAIL).",
+      "keyCriteria": [
+        "Active research alignment with TerraGrid platform",
+        "Direct organizational touchpoints at Anthropic, ARC, MIRI, MIT/Stanford",
+        "Technical credibility and evaluation partnerships"
+      ],
+      "targetEntities": [
+        "Anthropic",
+        "MIRI",
+        "ARC",
+        "ARC Evals",
+        "EA Global",
+        "MIT CSAIL",
+        "Stanford CSAIL",
+        "DeepMind"
+      ],
+      "keywords": [
+        "ai-safety",
+        "ai safety",
+        "alignment",
+        "eval",
+        "evals",
+        "safety",
+        "researcher",
+        "paper",
+        "anthropic",
+        "miri",
+        "arc",
+        "arc evals",
+        "ea global",
+        "csail",
+        "academic",
+        "stanford"
+      ]
+    }
+  ],
+  "topWeeklyFocus": [
+    {
+      "contact": {
+        "name": "Marcus Wei",
+        "role": "Partner",
+        "company": "Sequoia Capital",
+        "howSheKnowsThem": "investor",
+        "daysSinceLastContact": 16,
+        "lastContactChannel": "email",
+        "lastContactSummary": "Warm email exchange after she sent her teaser deck. Asked to see the full pitch.",
+        "relationshipStrength": 3,
+        "tags": [
+          "investor",
+          "series-c",
+          "warm"
+        ],
+        "notes": "Warm intro from Patrick at Greylock. Open to a Q3 chat. Replied positively to teaser deck. Hasn't seen full pitch yet.",
+        "rawRow": 2
+      },
+      "scoring": {
+        "goalAlignmentScore": 100,
+        "relationshipLeverageScore": 68,
+        "actionabilityScore": 100,
+        "compositeScore": 94,
+        "matchedGoals": [
+          {
+            "goalId": "series_c",
+            "goalTitle": "Raise Series C by end of Q3",
+            "relevanceScore": 100,
+            "reasons": [
+              "Tagged with Series C",
+              "Tagged as Investor",
+              "Affiliated with target ecosystem entity \"Sequoia\"",
+              "Relevant venture role: Partner"
+            ]
+          }
+        ],
+        "isDormantHighLeverage": false,
+        "dormancyReasons": [],
+        "priorityReasons": [
+          "Tagged with Series C",
+          "Tagged as Investor",
+          "Affiliated with target ecosystem entity \"Sequoia\"",
+          "Relevant venture role: Partner",
+          "Recent contact (16 days ago) provides immediate momentum"
+        ],
+        "recommendedMove": "Send the full Series C pitch deck and propose a 30-minute deep-dive meeting next week.",
+        "riskIfIgnored": "Loses momentum on Sequoia interest; Sequoia lead partner may allocate bandwidth to competing deals."
+      }
+    },
+    {
+      "contact": {
+        "name": "Diana Chen",
+        "role": "CTO",
+        "company": "Stripe",
+        "howSheKnowsThem": "mentor",
+        "daysSinceLastContact": 28,
+        "lastContactChannel": "call",
+        "lastContactSummary": "Offered to help with CTO search. Mentioned she knows 3-4 strong candidates.",
+        "relationshipStrength": 4,
+        "tags": [
+          "cto-search",
+          "mentor"
+        ],
+        "notes": "Has offered to help with CTO search. CEO never followed up after the offer. Strong relationship she's underusing.",
+        "rawRow": 3
+      },
+      "scoring": {
+        "goalAlignmentScore": 95,
+        "relationshipLeverageScore": 84,
+        "actionabilityScore": 95,
+        "compositeScore": 93,
+        "matchedGoals": [
+          {
+            "goalId": "cto_hire",
+            "goalTitle": "Hire Chief Technology Officer (CTO)",
+            "relevanceScore": 95,
+            "reasons": [
+              "Tagged as CTO candidate / search lead",
+              "Affiliated with target ecosystem entity \"Stripe\"",
+              "Relevant technical/talent role: CTO"
+            ]
+          },
+          {
+            "goalId": "ai_safety",
+            "goalTitle": "Build AI Safety Relationships",
+            "relevanceScore": 25,
+            "reasons": [
+              "Affiliated with target ecosystem entity \"ARC\""
+            ]
+          }
+        ],
+        "isDormantHighLeverage": false,
+        "dormancyReasons": [],
+        "priorityReasons": [
+          "Tagged as CTO candidate / search lead",
+          "Affiliated with target ecosystem entity \"Stripe\"",
+          "Relevant technical/talent role: CTO",
+          "Recent contact (28 days ago) provides immediate momentum"
+        ],
+        "recommendedMove": "Follow up immediately thanking her for the mentorship offer and request introductions to the 3-4 CTO candidates she highlighted.",
+        "riskIfIgnored": "Wastes a warm executive referral offer; Stripe CTO candidates may take other roles in a tight talent market."
+      }
+    },
+    {
+      "contact": {
+        "name": "Maya Patel",
+        "role": "VP Engineering",
+        "company": "Slack",
+        "howSheKnowsThem": "intro",
+        "daysSinceLastContact": 13,
+        "lastContactChannel": "meeting",
+        "lastContactSummary": "Coffee chat. She said 'let's revisit in a month' about the CTO role.",
+        "relationshipStrength": 4,
+        "tags": [
+          "cto-candidate",
+          "strong"
+        ],
+        "notes": "Strong CTO candidate. Scaled engineering team 40 to 180 at Slack. Open to chat. 'Revisit in a month' window opens in about 2 weeks.",
+        "rawRow": 25
+      },
+      "scoring": {
+        "goalAlignmentScore": 95,
+        "relationshipLeverageScore": 74,
+        "actionabilityScore": 100,
+        "compositeScore": 93,
+        "matchedGoals": [
+          {
+            "goalId": "cto_hire",
+            "goalTitle": "Hire Chief Technology Officer (CTO)",
+            "relevanceScore": 95,
+            "reasons": [
+              "Tagged as CTO candidate / search lead",
+              "Affiliated with target ecosystem entity \"Slack\"",
+              "Relevant technical/talent role: VP Engineering"
+            ]
+          }
+        ],
+        "isDormantHighLeverage": false,
+        "dormancyReasons": [],
+        "priorityReasons": [
+          "Tagged as CTO candidate / search lead",
+          "Affiliated with target ecosystem entity \"Slack\"",
+          "Relevant technical/talent role: VP Engineering",
+          "Recent contact (13 days ago) provides immediate momentum"
+        ],
+        "recommendedMove": "Send a targeted note initiating the 1-month follow-up window to discuss the TerraGrid CTO role and vision.",
+        "riskIfIgnored": "Misses the optimal engagement window before she enters other late-stage leadership interview loops."
+      }
+    },
+    {
+      "contact": {
+        "name": "Paul Christiano",
+        "role": "Researcher",
+        "company": "ARC Evals",
+        "howSheKnowsThem": "intro",
+        "daysSinceLastContact": 8,
+        "lastContactChannel": "email",
+        "lastContactSummary": "Brief LinkedIn message exchange about his recent eval paper. Showed interest in TerraGrid.",
+        "relationshipStrength": 2,
+        "tags": [
+          "ai-safety",
+          "researcher"
+        ],
+        "notes": "Connected via Anthropic intro. Showed interest in TerraGrid's product. Would benefit from a follow-up with concrete questions.",
+        "rawRow": 4
+      },
+      "scoring": {
+        "goalAlignmentScore": 100,
+        "relationshipLeverageScore": 42,
+        "actionabilityScore": 85,
+        "compositeScore": 83,
+        "matchedGoals": [
+          {
+            "goalId": "ai_safety",
+            "goalTitle": "Build AI Safety Relationships",
+            "relevanceScore": 100,
+            "reasons": [
+              "Tagged with AI Safety focus",
+              "AI Safety Researcher / Academic affiliation",
+              "Affiliated with target ecosystem entity \"Anthropic\"",
+              "AI safety research role: Researcher"
+            ]
+          }
+        ],
+        "isDormantHighLeverage": false,
+        "dormancyReasons": [],
+        "priorityReasons": [
+          "Tagged with AI Safety focus",
+          "AI Safety Researcher / Academic affiliation",
+          "Affiliated with target ecosystem entity \"Anthropic\"",
+          "AI safety research role: Researcher",
+          "Recent contact (8 days ago) provides immediate momentum"
+        ],
+        "recommendedMove": "Send a structured follow-up email proposing concrete AI evaluation questions and explore an alignment collaboration between TerraGrid and ARC Evals.",
+        "riskIfIgnored": "Fails to establish institutional credibility with top-tier AI safety evaluators early in TerraGrid’s product lifecycle."
+      }
+    },
+    {
+      "contact": {
+        "name": "David Liu",
+        "role": "Senior Engineering Manager",
+        "company": "Google",
+        "howSheKnowsThem": "ex-colleague",
+        "daysSinceLastContact": 36,
+        "lastContactChannel": "meeting",
+        "lastContactSummary": "Coffee chat. Mentioned he's been at Google 6 years and may be open in a year.",
+        "relationshipStrength": 3,
+        "tags": [
+          "cto-candidate",
+          "ex-google"
+        ],
+        "notes": "Strong candidate, has scaled teams 50 to 300. Met at Lattice conference. Open to chat but waiting for the right opportunity.",
+        "rawRow": 8
+      },
+      "scoring": {
+        "goalAlignmentScore": 100,
+        "relationshipLeverageScore": 68,
+        "actionabilityScore": 70,
+        "compositeScore": 83,
+        "matchedGoals": [
+          {
+            "goalId": "cto_hire",
+            "goalTitle": "Hire Chief Technology Officer (CTO)",
+            "relevanceScore": 100,
+            "reasons": [
+              "Tagged as CTO candidate / search lead",
+              "Affiliated with target ecosystem entity \"Google\"",
+              "Relevant technical/talent role: Senior Engineering Manager"
+            ]
+          }
+        ],
+        "isDormantHighLeverage": false,
+        "dormancyReasons": [],
+        "priorityReasons": [
+          "Tagged as CTO candidate / search lead",
+          "Affiliated with target ecosystem entity \"Google\"",
+          "Relevant technical/talent role: Senior Engineering Manager"
+        ],
+        "recommendedMove": "Reach out with specific profile requirements for the 50-to-200 engineering scale CTO role and ask for recommended leaders.",
+        "riskIfIgnored": "Extends executive search timeline and leaves engineering leadership vacant during critical scaling phase."
+      }
+    }
+  ],
+  "dormantHighLeverage": [
+    {
+      "contact": {
+        "name": "Reid Hoffman",
+        "role": "Partner",
+        "company": "Greylock",
+        "howSheKnowsThem": "investor",
+        "daysSinceLastContact": 81,
+        "lastContactChannel": "event",
+        "lastContactSummary": "Saw him at CES. Brief catch-up, said he wanted to hear about Series C plans.",
+        "relationshipStrength": 4,
+        "tags": [
+          "investor",
+          "dormant",
+          "series-c"
+        ],
+        "notes": "Strongest investor relationship she has. Did pre-seed at his previous fund. Has been quiet since CES; she keeps meaning to write but hasn't. Could be a key signal for the round.",
+        "rawRow": 6
+      },
+      "scoring": {
+        "goalAlignmentScore": 100,
+        "relationshipLeverageScore": 84,
+        "actionabilityScore": 50,
+        "compositeScore": 79,
+        "matchedGoals": [
+          {
+            "goalId": "series_c",
+            "goalTitle": "Raise Series C by end of Q3",
+            "relevanceScore": 100,
+            "reasons": [
+              "Tagged with Series C",
+              "Tagged as Investor",
+              "Affiliated with target ecosystem entity \"Greylock\"",
+              "Relevant venture role: Partner"
+            ]
+          }
+        ],
+        "isDormantHighLeverage": true,
+        "dormancyReasons": [
+          "Last contacted 81 days ago (exceeds 60-day dormancy threshold)",
+          "High relationship leverage (Strength 4/5 as investor)",
+          "Direct strategic alignment with: Raise Series C by end of Q3"
+        ],
+        "priorityReasons": [
+          "Tagged with Series C",
+          "Tagged as Investor",
+          "Affiliated with target ecosystem entity \"Greylock\"",
+          "Relevant venture role: Partner"
+        ],
+        "recommendedMove": "Send a personalized email with a brief Series C update and request a 20-minute catch-up call on Greylock signaling and round dynamics.",
+        "riskIfIgnored": "Alienates the CEO’s strongest pre-seed investor and key signaling partner for the Series C round."
+      }
+    },
+    {
+      "contact": {
+        "name": "Priya Mehta",
+        "role": "Partner",
+        "company": "Index Ventures",
+        "howSheKnowsThem": "investor",
+        "daysSinceLastContact": 128,
+        "lastContactChannel": "meeting",
+        "lastContactSummary": "Coffee around her seed round. Nothing since.",
+        "relationshipStrength": 2,
+        "tags": [
+          "investor",
+          "dormant"
+        ],
+        "notes": "Strong fit for Series C but communication has gone cold. Last interaction was around her seed round.",
+        "rawRow": 16
+      },
+      "scoring": {
+        "goalAlignmentScore": 75,
+        "relationshipLeverageScore": 52,
+        "actionabilityScore": 35,
+        "compositeScore": 56,
+        "matchedGoals": [
+          {
+            "goalId": "series_c",
+            "goalTitle": "Raise Series C by end of Q3",
+            "relevanceScore": 75,
+            "reasons": [
+              "Tagged as Investor",
+              "Affiliated with target ecosystem entity \"Index Ventures\"",
+              "Relevant venture role: Partner"
+            ]
+          }
+        ],
+        "isDormantHighLeverage": true,
+        "dormancyReasons": [
+          "Last contacted 128 days ago (exceeds 60-day dormancy threshold)",
+          "High relationship leverage (Strength 2/5 as investor)",
+          "Direct strategic alignment with: Raise Series C by end of Q3"
+        ],
+        "priorityReasons": [
+          "Tagged as Investor",
+          "Affiliated with target ecosystem entity \"Index Ventures\"",
+          "Relevant venture role: Partner"
+        ],
+        "recommendedMove": "Send a high-level update on TerraGrid growth metrics since seed and gauge Index Ventures appetite for Series C participation.",
+        "riskIfIgnored": "Leaves a Tier-1 venture partner completely cold ahead of the Q3 Series C process."
+      }
+    }
+  ],
+  "allScoredContacts": [
+    {
+      "contact": {
+        "name": "Marcus Wei",
+        "role": "Partner",
+        "company": "Sequoia Capital",
+        "howSheKnowsThem": "investor",
+        "daysSinceLastContact": 16,
+        "lastContactChannel": "email",
+        "lastContactSummary": "Warm email exchange after she sent her teaser deck. Asked to see the full pitch.",
+        "relationshipStrength": 3,
+        "tags": [
+          "investor",
+          "series-c",
+          "warm"
+        ],
+        "notes": "Warm intro from Patrick at Greylock. Open to a Q3 chat. Replied positively to teaser deck. Hasn't seen full pitch yet.",
+        "rawRow": 2
+      },
+      "scoring": {
+        "goalAlignmentScore": 100,
+        "relationshipLeverageScore": 68,
+        "actionabilityScore": 100,
+        "compositeScore": 94,
+        "matchedGoals": [
+          {
+            "goalId": "series_c",
+            "goalTitle": "Raise Series C by end of Q3",
+            "relevanceScore": 100,
+            "reasons": [
+              "Tagged with Series C",
+              "Tagged as Investor",
+              "Affiliated with target ecosystem entity \"Sequoia\"",
+              "Relevant venture role: Partner"
+            ]
+          }
+        ],
+        "isDormantHighLeverage": false,
+        "dormancyReasons": [],
+        "priorityReasons": [
+          "Tagged with Series C",
+          "Tagged as Investor",
+          "Affiliated with target ecosystem entity \"Sequoia\"",
+          "Relevant venture role: Partner",
+          "Recent contact (16 days ago) provides immediate momentum"
+        ],
+        "recommendedMove": "Send the full Series C pitch deck and propose a 30-minute deep-dive meeting next week.",
+        "riskIfIgnored": "Loses momentum on Sequoia interest; Sequoia lead partner may allocate bandwidth to competing deals."
+      }
+    },
+    {
+      "contact": {
+        "name": "Diana Chen",
+        "role": "CTO",
+        "company": "Stripe",
+        "howSheKnowsThem": "mentor",
+        "daysSinceLastContact": 28,
+        "lastContactChannel": "call",
+        "lastContactSummary": "Offered to help with CTO search. Mentioned she knows 3-4 strong candidates.",
+        "relationshipStrength": 4,
+        "tags": [
+          "cto-search",
+          "mentor"
+        ],
+        "notes": "Has offered to help with CTO search. CEO never followed up after the offer. Strong relationship she's underusing.",
+        "rawRow": 3
+      },
+      "scoring": {
+        "goalAlignmentScore": 95,
+        "relationshipLeverageScore": 84,
+        "actionabilityScore": 95,
+        "compositeScore": 93,
+        "matchedGoals": [
+          {
+            "goalId": "cto_hire",
+            "goalTitle": "Hire Chief Technology Officer (CTO)",
+            "relevanceScore": 95,
+            "reasons": [
+              "Tagged as CTO candidate / search lead",
+              "Affiliated with target ecosystem entity \"Stripe\"",
+              "Relevant technical/talent role: CTO"
+            ]
+          },
+          {
+            "goalId": "ai_safety",
+            "goalTitle": "Build AI Safety Relationships",
+            "relevanceScore": 25,
+            "reasons": [
+              "Affiliated with target ecosystem entity \"ARC\""
+            ]
+          }
+        ],
+        "isDormantHighLeverage": false,
+        "dormancyReasons": [],
+        "priorityReasons": [
+          "Tagged as CTO candidate / search lead",
+          "Affiliated with target ecosystem entity \"Stripe\"",
+          "Relevant technical/talent role: CTO",
+          "Recent contact (28 days ago) provides immediate momentum"
+        ],
+        "recommendedMove": "Follow up immediately thanking her for the mentorship offer and request introductions to the 3-4 CTO candidates she highlighted.",
+        "riskIfIgnored": "Wastes a warm executive referral offer; Stripe CTO candidates may take other roles in a tight talent market."
+      }
+    },
+    {
+      "contact": {
+        "name": "Maya Patel",
+        "role": "VP Engineering",
+        "company": "Slack",
+        "howSheKnowsThem": "intro",
+        "daysSinceLastContact": 13,
+        "lastContactChannel": "meeting",
+        "lastContactSummary": "Coffee chat. She said 'let's revisit in a month' about the CTO role.",
+        "relationshipStrength": 4,
+        "tags": [
+          "cto-candidate",
+          "strong"
+        ],
+        "notes": "Strong CTO candidate. Scaled engineering team 40 to 180 at Slack. Open to chat. 'Revisit in a month' window opens in about 2 weeks.",
+        "rawRow": 25
+      },
+      "scoring": {
+        "goalAlignmentScore": 95,
+        "relationshipLeverageScore": 74,
+        "actionabilityScore": 100,
+        "compositeScore": 93,
+        "matchedGoals": [
+          {
+            "goalId": "cto_hire",
+            "goalTitle": "Hire Chief Technology Officer (CTO)",
+            "relevanceScore": 95,
+            "reasons": [
+              "Tagged as CTO candidate / search lead",
+              "Affiliated with target ecosystem entity \"Slack\"",
+              "Relevant technical/talent role: VP Engineering"
+            ]
+          }
+        ],
+        "isDormantHighLeverage": false,
+        "dormancyReasons": [],
+        "priorityReasons": [
+          "Tagged as CTO candidate / search lead",
+          "Affiliated with target ecosystem entity \"Slack\"",
+          "Relevant technical/talent role: VP Engineering",
+          "Recent contact (13 days ago) provides immediate momentum"
+        ],
+        "recommendedMove": "Send a targeted note initiating the 1-month follow-up window to discuss the TerraGrid CTO role and vision.",
+        "riskIfIgnored": "Misses the optimal engagement window before she enters other late-stage leadership interview loops."
+      }
+    },
+    {
+      "contact": {
+        "name": "Paul Christiano",
+        "role": "Researcher",
+        "company": "ARC Evals",
+        "howSheKnowsThem": "intro",
+        "daysSinceLastContact": 8,
+        "lastContactChannel": "email",
+        "lastContactSummary": "Brief LinkedIn message exchange about his recent eval paper. Showed interest in TerraGrid.",
+        "relationshipStrength": 2,
+        "tags": [
+          "ai-safety",
+          "researcher"
+        ],
+        "notes": "Connected via Anthropic intro. Showed interest in TerraGrid's product. Would benefit from a follow-up with concrete questions.",
+        "rawRow": 4
+      },
+      "scoring": {
+        "goalAlignmentScore": 100,
+        "relationshipLeverageScore": 42,
+        "actionabilityScore": 85,
+        "compositeScore": 83,
+        "matchedGoals": [
+          {
+            "goalId": "ai_safety",
+            "goalTitle": "Build AI Safety Relationships",
+            "relevanceScore": 100,
+            "reasons": [
+              "Tagged with AI Safety focus",
+              "AI Safety Researcher / Academic affiliation",
+              "Affiliated with target ecosystem entity \"Anthropic\"",
+              "AI safety research role: Researcher"
+            ]
+          }
+        ],
+        "isDormantHighLeverage": false,
+        "dormancyReasons": [],
+        "priorityReasons": [
+          "Tagged with AI Safety focus",
+          "AI Safety Researcher / Academic affiliation",
+          "Affiliated with target ecosystem entity \"Anthropic\"",
+          "AI safety research role: Researcher",
+          "Recent contact (8 days ago) provides immediate momentum"
+        ],
+        "recommendedMove": "Send a structured follow-up email proposing concrete AI evaluation questions and explore an alignment collaboration between TerraGrid and ARC Evals.",
+        "riskIfIgnored": "Fails to establish institutional credibility with top-tier AI safety evaluators early in TerraGrid’s product lifecycle."
+      }
+    },
+    {
+      "contact": {
+        "name": "David Liu",
+        "role": "Senior Engineering Manager",
+        "company": "Google",
+        "howSheKnowsThem": "ex-colleague",
+        "daysSinceLastContact": 36,
+        "lastContactChannel": "meeting",
+        "lastContactSummary": "Coffee chat. Mentioned he's been at Google 6 years and may be open in a year.",
+        "relationshipStrength": 3,
+        "tags": [
+          "cto-candidate",
+          "ex-google"
+        ],
+        "notes": "Strong candidate, has scaled teams 50 to 300. Met at Lattice conference. Open to chat but waiting for the right opportunity.",
+        "rawRow": 8
+      },
+      "scoring": {
+        "goalAlignmentScore": 100,
+        "relationshipLeverageScore": 68,
+        "actionabilityScore": 70,
+        "compositeScore": 83,
+        "matchedGoals": [
+          {
+            "goalId": "cto_hire",
+            "goalTitle": "Hire Chief Technology Officer (CTO)",
+            "relevanceScore": 100,
+            "reasons": [
+              "Tagged as CTO candidate / search lead",
+              "Affiliated with target ecosystem entity \"Google\"",
+              "Relevant technical/talent role: Senior Engineering Manager"
+            ]
+          }
+        ],
+        "isDormantHighLeverage": false,
+        "dormancyReasons": [],
+        "priorityReasons": [
+          "Tagged as CTO candidate / search lead",
+          "Affiliated with target ecosystem entity \"Google\"",
+          "Relevant technical/talent role: Senior Engineering Manager"
+        ],
+        "recommendedMove": "Reach out with specific profile requirements for the 50-to-200 engineering scale CTO role and ask for recommended leaders.",
+        "riskIfIgnored": "Extends executive search timeline and leaves engineering leadership vacant during critical scaling phase."
+      }
+    },
+    {
+      "contact": {
+        "name": "Reid Hoffman",
+        "role": "Partner",
+        "company": "Greylock",
+        "howSheKnowsThem": "investor",
+        "daysSinceLastContact": 81,
+        "lastContactChannel": "event",
+        "lastContactSummary": "Saw him at CES. Brief catch-up, said he wanted to hear about Series C plans.",
+        "relationshipStrength": 4,
+        "tags": [
+          "investor",
+          "dormant",
+          "series-c"
+        ],
+        "notes": "Strongest investor relationship she has. Did pre-seed at his previous fund. Has been quiet since CES; she keeps meaning to write but hasn't. Could be a key signal for the round.",
+        "rawRow": 6
+      },
+      "scoring": {
+        "goalAlignmentScore": 100,
+        "relationshipLeverageScore": 84,
+        "actionabilityScore": 50,
+        "compositeScore": 79,
+        "matchedGoals": [
+          {
+            "goalId": "series_c",
+            "goalTitle": "Raise Series C by end of Q3",
+            "relevanceScore": 100,
+            "reasons": [
+              "Tagged with Series C",
+              "Tagged as Investor",
+              "Affiliated with target ecosystem entity \"Greylock\"",
+              "Relevant venture role: Partner"
+            ]
+          }
+        ],
+        "isDormantHighLeverage": true,
+        "dormancyReasons": [
+          "Last contacted 81 days ago (exceeds 60-day dormancy threshold)",
+          "High relationship leverage (Strength 4/5 as investor)",
+          "Direct strategic alignment with: Raise Series C by end of Q3"
+        ],
+        "priorityReasons": [
+          "Tagged with Series C",
+          "Tagged as Investor",
+          "Affiliated with target ecosystem entity \"Greylock\"",
+          "Relevant venture role: Partner"
+        ],
+        "recommendedMove": "Send a personalized email with a brief Series C update and request a 20-minute catch-up call on Greylock signaling and round dynamics.",
+        "riskIfIgnored": "Alienates the CEO’s strongest pre-seed investor and key signaling partner for the Series C round."
+      }
+    },
+    {
+      "contact": {
+        "name": "David Park",
+        "role": "VP Engineering",
+        "company": "Notion",
+        "howSheKnowsThem": "event",
+        "daysSinceLastContact": 40,
+        "lastContactChannel": "email",
+        "lastContactSummary": "Follow-up email after a panel she moderated. He attended but hasn't replied to her last note.",
+        "relationshipStrength": 3,
+        "tags": [
+          "cto-candidate",
+          "unanswered"
+        ],
+        "notes": "Notion's VP Eng. Briefly met at a panel. Sent follow-up that's gone unanswered for over a month. Worth one more nudge.",
+        "rawRow": 9
+      },
+      "scoring": {
+        "goalAlignmentScore": 95,
+        "relationshipLeverageScore": 48,
+        "actionabilityScore": 70,
+        "compositeScore": 77,
+        "matchedGoals": [
+          {
+            "goalId": "cto_hire",
+            "goalTitle": "Hire Chief Technology Officer (CTO)",
+            "relevanceScore": 95,
+            "reasons": [
+              "Tagged as CTO candidate / search lead",
+              "Affiliated with target ecosystem entity \"Notion\"",
+              "Relevant technical/talent role: VP Engineering"
+            ]
+          }
+        ],
+        "isDormantHighLeverage": false,
+        "dormancyReasons": [],
+        "priorityReasons": [
+          "Tagged as CTO candidate / search lead",
+          "Affiliated with target ecosystem entity \"Notion\"",
+          "Relevant technical/talent role: VP Engineering"
+        ],
+        "recommendedMove": "Reach out with specific profile requirements for the 50-to-200 engineering scale CTO role and ask for recommended leaders.",
+        "riskIfIgnored": "Extends executive search timeline and leaves engineering leadership vacant during critical scaling phase."
+      }
+    },
+    {
+      "contact": {
+        "name": "Sophia Lee",
+        "role": "VP People",
+        "company": "Pinterest",
+        "howSheKnowsThem": "ex-colleague",
+        "daysSinceLastContact": 23,
+        "lastContactChannel": "call",
+        "lastContactSummary": "Catch-up call. Said she'd surface CTO candidates if asked.",
+        "relationshipStrength": 3,
+        "tags": [
+          "talent-network"
+        ],
+        "notes": "Helped source 2 strong engineering candidates last year. Could surface CTO candidates if asked directly.",
+        "rawRow": 23
+      },
+      "scoring": {
+        "goalAlignmentScore": 60,
+        "relationshipLeverageScore": 68,
+        "actionabilityScore": 85,
+        "compositeScore": 70,
+        "matchedGoals": [
+          {
+            "goalId": "cto_hire",
+            "goalTitle": "Hire Chief Technology Officer (CTO)",
+            "relevanceScore": 60,
+            "reasons": [
+              "Tagged as Engineering Talent Connector / Org Advisor",
+              "Affiliated with target ecosystem entity \"Pinterest\""
+            ]
+          }
+        ],
+        "isDormantHighLeverage": false,
+        "dormancyReasons": [],
+        "priorityReasons": [
+          "Tagged as Engineering Talent Connector / Org Advisor",
+          "Affiliated with target ecosystem entity \"Pinterest\"",
+          "Recent contact (23 days ago) provides immediate momentum"
+        ],
+        "recommendedMove": "Reach out with specific profile requirements for the 50-to-200 engineering scale CTO role and ask for recommended leaders.",
+        "riskIfIgnored": "Extends executive search timeline and leaves engineering leadership vacant during critical scaling phase."
+      }
+    },
+    {
+      "contact": {
+        "name": "Lin Wang",
+        "role": "Researcher",
+        "company": "Anthropic",
+        "howSheKnowsThem": "event",
+        "daysSinceLastContact": 59,
+        "lastContactChannel": "email",
+        "lastContactSummary": "Quarterly check-in note. Sent a paper recommendation.",
+        "relationshipStrength": 2,
+        "tags": [
+          "ai-safety",
+          "anthropic"
+        ],
+        "notes": "Casual relationship from EA Global last year. Roughly quarterly check-ins.",
+        "rawRow": 12
+      },
+      "scoring": {
+        "goalAlignmentScore": 100,
+        "relationshipLeverageScore": 32,
+        "actionabilityScore": 50,
+        "compositeScore": 69,
+        "matchedGoals": [
+          {
+            "goalId": "ai_safety",
+            "goalTitle": "Build AI Safety Relationships",
+            "relevanceScore": 100,
+            "reasons": [
+              "Tagged with AI Safety focus",
+              "Affiliated with target ecosystem entity \"Anthropic\"",
+              "AI safety research role: Researcher"
+            ]
+          }
+        ],
+        "isDormantHighLeverage": false,
+        "dormancyReasons": [],
+        "priorityReasons": [
+          "Tagged with AI Safety focus",
+          "Affiliated with target ecosystem entity \"Anthropic\"",
+          "AI safety research role: Researcher"
+        ],
+        "recommendedMove": "Follow up with technical thoughts on recent alignment papers and explore mutual research/safety touchpoints.",
+        "riskIfIgnored": "TerraGrid remains isolated from key AI safety academic and industry research circles."
+      }
+    },
+    {
+      "contact": {
+        "name": "Yifan Zhou",
+        "role": "Researcher",
+        "company": "MIT CSAIL",
+        "howSheKnowsThem": "event",
+        "daysSinceLastContact": 46,
+        "lastContactChannel": "event",
+        "lastContactSummary": "Brief chat after his talk at the alignment workshop.",
+        "relationshipStrength": 2,
+        "tags": [
+          "ai-safety",
+          "academic"
+        ],
+        "notes": "Working on alignment research. Met at conference. Friendly but no concrete next step. Could be a path into academic AI safety circles.",
+        "rawRow": 26
+      },
+      "scoring": {
+        "goalAlignmentScore": 100,
+        "relationshipLeverageScore": 32,
+        "actionabilityScore": 50,
+        "compositeScore": 69,
+        "matchedGoals": [
+          {
+            "goalId": "ai_safety",
+            "goalTitle": "Build AI Safety Relationships",
+            "relevanceScore": 100,
+            "reasons": [
+              "Tagged with AI Safety focus",
+              "AI Safety Researcher / Academic affiliation",
+              "Affiliated with target ecosystem entity \"ARC\"",
+              "AI safety research role: Researcher"
+            ]
+          }
+        ],
+        "isDormantHighLeverage": false,
+        "dormancyReasons": [],
+        "priorityReasons": [
+          "Tagged with AI Safety focus",
+          "AI Safety Researcher / Academic affiliation",
+          "Affiliated with target ecosystem entity \"ARC\"",
+          "AI safety research role: Researcher"
+        ],
+        "recommendedMove": "Follow up with technical thoughts on recent alignment papers and explore mutual research/safety touchpoints.",
+        "riskIfIgnored": "TerraGrid remains isolated from key AI safety academic and industry research circles."
+      }
+    },
+    {
+      "contact": {
+        "name": "Tom Nakamura",
+        "role": "Co-founder",
+        "company": "Recur",
+        "howSheKnowsThem": "peer",
+        "daysSinceLastContact": 26,
+        "lastContactChannel": "call",
+        "lastContactSummary": "Working on AI agents. Has connections at Stanford CSAIL.",
+        "relationshipStrength": 3,
+        "tags": [
+          "peer-founder",
+          "ai-safety-adjacent"
+        ],
+        "notes": "Recent chat went well. Could be a bridge to AI safety circles via his Stanford connections.",
+        "rawRow": 15
+      },
+      "scoring": {
+        "goalAlignmentScore": 75,
+        "relationshipLeverageScore": 58,
+        "actionabilityScore": 65,
+        "compositeScore": 68,
+        "matchedGoals": [
+          {
+            "goalId": "ai_safety",
+            "goalTitle": "Build AI Safety Relationships",
+            "relevanceScore": 75,
+            "reasons": [
+              "Tagged with AI Safety focus",
+              "Affiliated with target ecosystem entity \"Stanford CSAIL\""
+            ]
+          }
+        ],
+        "isDormantHighLeverage": false,
+        "dormancyReasons": [],
+        "priorityReasons": [
+          "Tagged with AI Safety focus",
+          "Affiliated with target ecosystem entity \"Stanford CSAIL\"",
+          "Recent contact (26 days ago) provides immediate momentum"
+        ],
+        "recommendedMove": "Follow up with technical thoughts on recent alignment papers and explore mutual research/safety touchpoints.",
+        "riskIfIgnored": "TerraGrid remains isolated from key AI safety academic and industry research circles."
+      }
+    },
+    {
+      "contact": {
+        "name": "Lara Chen",
+        "role": "Head of Talent",
+        "company": "Coatue",
+        "howSheKnowsThem": "intro",
+        "daysSinceLastContact": 18,
+        "lastContactChannel": "email",
+        "lastContactSummary": "Helpful with two engineering hire intros last quarter.",
+        "relationshipStrength": 3,
+        "tags": [
+          "investor",
+          "talent"
+        ],
+        "notes": "Recently moved from Y Combinator to Coatue. Has been helpful with hiring intros.",
+        "rawRow": 18
+      },
+      "scoring": {
+        "goalAlignmentScore": 75,
+        "relationshipLeverageScore": 58,
+        "actionabilityScore": 65,
+        "compositeScore": 68,
+        "matchedGoals": [
+          {
+            "goalId": "cto_hire",
+            "goalTitle": "Hire Chief Technology Officer (CTO)",
+            "relevanceScore": 75,
+            "reasons": [
+              "Tagged as Engineering Talent Connector / Org Advisor",
+              "Affiliated with target ecosystem entity \"Coatue\"",
+              "Relevant technical/talent role: Head of Talent"
+            ]
+          },
+          {
+            "goalId": "series_c",
+            "goalTitle": "Raise Series C by end of Q3",
+            "relevanceScore": 25,
+            "reasons": [
+              "Tagged as Investor"
+            ]
+          }
+        ],
+        "isDormantHighLeverage": false,
+        "dormancyReasons": [],
+        "priorityReasons": [
+          "Tagged as Engineering Talent Connector / Org Advisor",
+          "Affiliated with target ecosystem entity \"Coatue\"",
+          "Relevant technical/talent role: Head of Talent",
+          "Recent contact (18 days ago) provides immediate momentum"
+        ],
+        "recommendedMove": "Reach out with specific profile requirements for the 50-to-200 engineering scale CTO role and ask for recommended leaders.",
+        "riskIfIgnored": "Extends executive search timeline and leaves engineering leadership vacant during critical scaling phase."
+      }
+    },
+    {
+      "contact": {
+        "name": "Sarah Guo",
+        "role": "Founder",
+        "company": "Conviction VC",
+        "howSheKnowsThem": "event",
+        "daysSinceLastContact": 20,
+        "lastContactChannel": "meeting",
+        "lastContactSummary": "Coffee at AI Engineer Summit. Discussed Series C timing and AI safety angle.",
+        "relationshipStrength": 3,
+        "tags": [
+          "investor",
+          "ai-safety"
+        ],
+        "notes": "Invests in AI-safety-adjacent companies. Met at AI Engineer Summit. Has been following TerraGrid for 2 quarters.",
+        "rawRow": 5
+      },
+      "scoring": {
+        "goalAlignmentScore": 70,
+        "relationshipLeverageScore": 48,
+        "actionabilityScore": 65,
+        "compositeScore": 64,
+        "matchedGoals": [
+          {
+            "goalId": "series_c",
+            "goalTitle": "Raise Series C by end of Q3",
+            "relevanceScore": 70,
+            "reasons": [
+              "Tagged as Investor",
+              "Affiliated with target ecosystem entity \"Conviction VC\"",
+              "Relevant venture role: Founder"
+            ]
+          },
+          {
+            "goalId": "ai_safety",
+            "goalTitle": "Build AI Safety Relationships",
+            "relevanceScore": 50,
+            "reasons": [
+              "Tagged with AI Safety focus"
+            ]
+          }
+        ],
+        "isDormantHighLeverage": false,
+        "dormancyReasons": [],
+        "priorityReasons": [
+          "Tagged as Investor",
+          "Affiliated with target ecosystem entity \"Conviction VC\"",
+          "Relevant venture role: Founder",
+          "Recent contact (20 days ago) provides immediate momentum"
+        ],
+        "recommendedMove": "Send a concise quarterly progress memo and request a 20-minute discussion regarding Series C round timing.",
+        "riskIfIgnored": "Leaves venture interest uncultivated, weakening competitive tension for the upcoming Series C fundraise."
+      }
+    },
+    {
+      "contact": {
+        "name": "Holly Liu",
+        "role": "Former Discord exec",
+        "company": "Independent",
+        "howSheKnowsThem": "advisor",
+        "daysSinceLastContact": 33,
+        "lastContactChannel": "call",
+        "lastContactSummary": "Monthly advisor call. Discussed engineering org structure.",
+        "relationshipStrength": 4,
+        "tags": [
+          "advisor",
+          "eng-org"
+        ],
+        "notes": "Active advisor. Knows the engineering org well. Reliable response time. Could weigh in on CTO finalists.",
+        "rawRow": 20
+      },
+      "scoring": {
+        "goalAlignmentScore": 60,
+        "relationshipLeverageScore": 84,
+        "actionabilityScore": 50,
+        "compositeScore": 61,
+        "matchedGoals": [
+          {
+            "goalId": "cto_hire",
+            "goalTitle": "Hire Chief Technology Officer (CTO)",
+            "relevanceScore": 60,
+            "reasons": [
+              "Tagged as Engineering Talent Connector / Org Advisor",
+              "Affiliated with target ecosystem entity \"Discord\""
+            ]
+          }
+        ],
+        "isDormantHighLeverage": false,
+        "dormancyReasons": [],
+        "priorityReasons": [
+          "Tagged as Engineering Talent Connector / Org Advisor",
+          "Affiliated with target ecosystem entity \"Discord\""
+        ],
+        "recommendedMove": "Reach out with specific profile requirements for the 50-to-200 engineering scale CTO role and ask for recommended leaders.",
+        "riskIfIgnored": "Extends executive search timeline and leaves engineering leadership vacant during critical scaling phase."
+      }
+    },
+    {
+      "contact": {
+        "name": "Andre Costa",
+        "role": "Head of AI",
+        "company": "Block",
+        "howSheKnowsThem": "event",
+        "daysSinceLastContact": 50,
+        "lastContactChannel": "meeting",
+        "lastContactSummary": "Met at AI conference. Said he's open to leadership chats in a year.",
+        "relationshipStrength": 2,
+        "tags": [
+          "cto-candidate-maybe"
+        ],
+        "notes": "Strong engineering background. Currently happy at Block but mentioned 'open in a year.' Worth a slow burn.",
+        "rawRow": 17
+      },
+      "scoring": {
+        "goalAlignmentScore": 80,
+        "relationshipLeverageScore": 32,
+        "actionabilityScore": 50,
+        "compositeScore": 60,
+        "matchedGoals": [
+          {
+            "goalId": "cto_hire",
+            "goalTitle": "Hire Chief Technology Officer (CTO)",
+            "relevanceScore": 80,
+            "reasons": [
+              "Tagged as CTO candidate / search lead",
+              "Affiliated with target ecosystem entity \"Block\""
+            ]
+          }
+        ],
+        "isDormantHighLeverage": false,
+        "dormancyReasons": [],
+        "priorityReasons": [
+          "Tagged as CTO candidate / search lead",
+          "Affiliated with target ecosystem entity \"Block\""
+        ],
+        "recommendedMove": "Reach out with specific profile requirements for the 50-to-200 engineering scale CTO role and ask for recommended leaders.",
+        "riskIfIgnored": "Extends executive search timeline and leaves engineering leadership vacant during critical scaling phase."
+      }
+    },
+    {
+      "contact": {
+        "name": "Priya Mehta",
+        "role": "Partner",
+        "company": "Index Ventures",
+        "howSheKnowsThem": "investor",
+        "daysSinceLastContact": 128,
+        "lastContactChannel": "meeting",
+        "lastContactSummary": "Coffee around her seed round. Nothing since.",
+        "relationshipStrength": 2,
+        "tags": [
+          "investor",
+          "dormant"
+        ],
+        "notes": "Strong fit for Series C but communication has gone cold. Last interaction was around her seed round.",
+        "rawRow": 16
+      },
+      "scoring": {
+        "goalAlignmentScore": 75,
+        "relationshipLeverageScore": 52,
+        "actionabilityScore": 35,
+        "compositeScore": 56,
+        "matchedGoals": [
+          {
+            "goalId": "series_c",
+            "goalTitle": "Raise Series C by end of Q3",
+            "relevanceScore": 75,
+            "reasons": [
+              "Tagged as Investor",
+              "Affiliated with target ecosystem entity \"Index Ventures\"",
+              "Relevant venture role: Partner"
+            ]
+          }
+        ],
+        "isDormantHighLeverage": true,
+        "dormancyReasons": [
+          "Last contacted 128 days ago (exceeds 60-day dormancy threshold)",
+          "High relationship leverage (Strength 2/5 as investor)",
+          "Direct strategic alignment with: Raise Series C by end of Q3"
+        ],
+        "priorityReasons": [
+          "Tagged as Investor",
+          "Affiliated with target ecosystem entity \"Index Ventures\"",
+          "Relevant venture role: Partner"
+        ],
+        "recommendedMove": "Send a high-level update on TerraGrid growth metrics since seed and gauge Index Ventures appetite for Series C participation.",
+        "riskIfIgnored": "Leaves a Tier-1 venture partner completely cold ahead of the Q3 Series C process."
+      }
+    },
+    {
+      "contact": {
+        "name": "Emma Bouchard",
+        "role": "Partner",
+        "company": "Lightspeed Ventures",
+        "howSheKnowsThem": "intro",
+        "daysSinceLastContact": 43,
+        "lastContactChannel": "email",
+        "lastContactSummary": "Lukewarm follow-up to her Investor Summit intro.",
+        "relationshipStrength": 2,
+        "tags": [
+          "investor",
+          "lukewarm"
+        ],
+        "notes": "Possible Series C participant but not high priority. Slow to engage.",
+        "rawRow": 14
+      },
+      "scoring": {
+        "goalAlignmentScore": 70,
+        "relationshipLeverageScore": 42,
+        "actionabilityScore": 35,
+        "compositeScore": 52,
+        "matchedGoals": [
+          {
+            "goalId": "series_c",
+            "goalTitle": "Raise Series C by end of Q3",
+            "relevanceScore": 70,
+            "reasons": [
+              "Tagged as Investor",
+              "Affiliated with target ecosystem entity \"Lightspeed Ventures\"",
+              "Relevant venture role: Partner"
+            ]
+          }
+        ],
+        "isDormantHighLeverage": false,
+        "dormancyReasons": [],
+        "priorityReasons": [
+          "Tagged as Investor",
+          "Affiliated with target ecosystem entity \"Lightspeed Ventures\"",
+          "Relevant venture role: Partner"
+        ],
+        "recommendedMove": "Send a concise quarterly progress memo and request a 20-minute discussion regarding Series C round timing.",
+        "riskIfIgnored": "Leaves venture interest uncultivated, weakening competitive tension for the upcoming Series C fundraise."
+      }
+    },
+    {
+      "contact": {
+        "name": "Demis Hassabis",
+        "role": "CEO",
+        "company": "DeepMind",
+        "howSheKnowsThem": "intro",
+        "daysSinceLastContact": 103,
+        "lastContactChannel": "email",
+        "lastContactSummary": "Polite reply to her intro email. No engagement since.",
+        "relationshipStrength": 2,
+        "tags": [
+          "ai-safety",
+          "dormant"
+        ],
+        "notes": "Got intro through Y Combinator. Polite but not engaged. Probably not the right thread to pull on right now.",
+        "rawRow": 22
+      },
+      "scoring": {
+        "goalAlignmentScore": 75,
+        "relationshipLeverageScore": 42,
+        "actionabilityScore": 5,
+        "compositeScore": 44,
+        "matchedGoals": [
+          {
+            "goalId": "ai_safety",
+            "goalTitle": "Build AI Safety Relationships",
+            "relevanceScore": 75,
+            "reasons": [
+              "Tagged with AI Safety focus",
+              "Affiliated with target ecosystem entity \"DeepMind\""
+            ]
+          }
+        ],
+        "isDormantHighLeverage": false,
+        "dormancyReasons": [],
+        "priorityReasons": [
+          "Tagged with AI Safety focus",
+          "Affiliated with target ecosystem entity \"DeepMind\""
+        ],
+        "recommendedMove": "Follow up with technical thoughts on recent alignment papers and explore mutual research/safety touchpoints.",
+        "riskIfIgnored": "TerraGrid remains isolated from key AI safety academic and industry research circles."
+      }
+    },
+    {
+      "contact": {
+        "name": "Patrick Collison",
+        "role": "CEO",
+        "company": "Stripe",
+        "howSheKnowsThem": "peer",
+        "daysSinceLastContact": 53,
+        "lastContactChannel": "event",
+        "lastContactSummary": "Brief chat at a YC reunion event.",
+        "relationshipStrength": 3,
+        "tags": [
+          "peer-ceo"
+        ],
+        "notes": "Met at YC reunion. Friendly but transactional. Would respond if she reached out.",
+        "rawRow": 13
+      },
+      "scoring": {
+        "goalAlignmentScore": 25,
+        "relationshipLeverageScore": 58,
+        "actionabilityScore": 50,
+        "compositeScore": 40,
+        "matchedGoals": [
+          {
+            "goalId": "cto_hire",
+            "goalTitle": "Hire Chief Technology Officer (CTO)",
+            "relevanceScore": 25,
+            "reasons": [
+              "Affiliated with target ecosystem entity \"Stripe\""
+            ]
+          }
+        ],
+        "isDormantHighLeverage": false,
+        "dormancyReasons": [],
+        "priorityReasons": [
+          "Affiliated with target ecosystem entity \"Stripe\""
+        ],
+        "recommendedMove": "Reach out with specific profile requirements for the 50-to-200 engineering scale CTO role and ask for recommended leaders.",
+        "riskIfIgnored": "Extends executive search timeline and leaves engineering leadership vacant during critical scaling phase."
+      }
+    },
+    {
+      "contact": {
+        "name": "Jensen Carlsson",
+        "role": "Founder",
+        "company": "Pipedrive",
+        "howSheKnowsThem": "peer",
+        "daysSinceLastContact": 6,
+        "lastContactChannel": "email",
+        "lastContactSummary": "Email thread comparing notes on go-to-market.",
+        "relationshipStrength": 2,
+        "tags": [
+          "peer-founder"
+        ],
+        "notes": "Founder community connection. No clear goal alignment but useful peer for comparing notes.",
+        "rawRow": 21
+      },
+      "scoring": {
+        "goalAlignmentScore": 5,
+        "relationshipLeverageScore": 42,
+        "actionabilityScore": 65,
+        "compositeScore": 33,
+        "matchedGoals": [
+          {
+            "goalId": "ai_safety",
+            "goalTitle": "Build AI Safety Relationships",
+            "relevanceScore": 5,
+            "reasons": []
+          }
+        ],
+        "isDormantHighLeverage": false,
+        "dormancyReasons": [],
+        "priorityReasons": [
+          "Recent contact (6 days ago) provides immediate momentum"
+        ],
+        "recommendedMove": "Follow up with technical thoughts on recent alignment papers and explore mutual research/safety touchpoints.",
+        "riskIfIgnored": "TerraGrid remains isolated from key AI safety academic and industry research circles."
+      }
+    },
+    {
+      "contact": {
+        "name": "James Park",
+        "role": "Physician",
+        "company": "UCSF Medical Center",
+        "howSheKnowsThem": "personal",
+        "daysSinceLastContact": 3,
+        "lastContactChannel": "call",
+        "lastContactSummary": "Weekend catch-up call. Talked about his kids and her recent trip.",
+        "relationshipStrength": 5,
+        "tags": [
+          "personal",
+          "friend"
+        ],
+        "notes": "Best friend since college. Frequent personal calls. No professional overlap with TerraGrid goals.",
+        "rawRow": 7
+      },
+      "scoring": {
+        "goalAlignmentScore": 0,
+        "relationshipLeverageScore": 80,
+        "actionabilityScore": 25,
+        "compositeScore": 0,
+        "matchedGoals": [],
+        "isDormantHighLeverage": false,
+        "dormancyReasons": [],
+        "priorityReasons": [
+          "Recent contact (3 days ago) provides immediate momentum"
+        ],
+        "recommendedMove": "Schedule a brief touchpoint to maintain relationship warmth.",
+        "riskIfIgnored": "Relationship drifts into dormancy without clear mutual value creation."
+      }
+    },
+    {
+      "contact": {
+        "name": "Anjali Sharma",
+        "role": "Founder",
+        "company": "(Stealth)",
+        "howSheKnowsThem": "event",
+        "daysSinceLastContact": 13,
+        "lastContactChannel": "event",
+        "lastContactSummary": "Met at conference. Exchanged cards.",
+        "relationshipStrength": 1,
+        "tags": [
+          "stealth",
+          "met-once"
+        ],
+        "notes": "Met at conference. No follow-up depth. Don't know what she's working on.",
+        "rawRow": 10
+      },
+      "scoring": {
+        "goalAlignmentScore": 0,
+        "relationshipLeverageScore": 16,
+        "actionabilityScore": 65,
+        "compositeScore": 0,
+        "matchedGoals": [],
+        "isDormantHighLeverage": false,
+        "dormancyReasons": [],
+        "priorityReasons": [
+          "Recent contact (13 days ago) provides immediate momentum"
+        ],
+        "recommendedMove": "Schedule a brief touchpoint to maintain relationship warmth.",
+        "riskIfIgnored": "Relationship drifts into dormancy without clear mutual value creation."
+      }
+    },
+    {
+      "contact": {
+        "name": "Jensen Huang",
+        "role": "CEO",
+        "company": "NVIDIA",
+        "howSheKnowsThem": "event",
+        "daysSinceLastContact": 199,
+        "lastContactChannel": "event",
+        "lastContactSummary": "Met briefly at GTC. Shook hands. No substantive exchange.",
+        "relationshipStrength": 1,
+        "tags": [
+          "aspirational",
+          "dormant-cold"
+        ],
+        "notes": "No real relationship. Would be a stretch to reach out cold.",
+        "rawRow": 11
+      },
+      "scoring": {
+        "goalAlignmentScore": 0,
+        "relationshipLeverageScore": 16,
+        "actionabilityScore": 0,
+        "compositeScore": 0,
+        "matchedGoals": [],
+        "isDormantHighLeverage": false,
+        "dormancyReasons": [],
+        "priorityReasons": [],
+        "recommendedMove": "Schedule a brief touchpoint to maintain relationship warmth.",
+        "riskIfIgnored": "Relationship drifts into dormancy without clear mutual value creation."
+      }
+    },
+    {
+      "contact": {
+        "name": "Brian Armstrong",
+        "role": "CEO",
+        "company": "Coinbase",
+        "howSheKnowsThem": "event",
+        "daysSinceLastContact": 67,
+        "lastContactChannel": "email",
+        "lastContactSummary": "He owes her one after she introduced him to a board candidate.",
+        "relationshipStrength": 2,
+        "tags": [
+          "peer-ceo",
+          "owed-favor"
+        ],
+        "notes": "Met at a panel; she helped him with an intro recently and he owes her one. Not a frequent contact but a soft favor in the bank.",
+        "rawRow": 19
+      },
+      "scoring": {
+        "goalAlignmentScore": 0,
+        "relationshipLeverageScore": 32,
+        "actionabilityScore": 75,
+        "compositeScore": 0,
+        "matchedGoals": [],
+        "isDormantHighLeverage": false,
+        "dormancyReasons": [],
+        "priorityReasons": [],
+        "recommendedMove": "Send a quick peer note requesting a targeted introduction to scaling VP Eng candidates or AI governance leaders.",
+        "riskIfIgnored": "The social capital from the recent board candidate referral fades without being leveraged."
+      }
+    },
+    {
+      "contact": {
+        "name": "Aaron Goldsmith",
+        "role": "Reporter",
+        "company": "The Information",
+        "howSheKnowsThem": "intro",
+        "daysSinceLastContact": 10,
+        "lastContactChannel": "email",
+        "lastContactSummary": "Reached out about enterprise AI trends story.",
+        "relationshipStrength": 3,
+        "tags": [
+          "press",
+          "journalist"
+        ],
+        "notes": "Covers enterprise AI. Quick to respond. Not goal-aligned for this week but useful relationship to maintain.",
+        "rawRow": 24
+      },
+      "scoring": {
+        "goalAlignmentScore": 0,
+        "relationshipLeverageScore": 58,
+        "actionabilityScore": 65,
+        "compositeScore": 0,
+        "matchedGoals": [],
+        "isDormantHighLeverage": false,
+        "dormancyReasons": [],
+        "priorityReasons": [
+          "Recent contact (10 days ago) provides immediate momentum"
+        ],
+        "recommendedMove": "Schedule a brief touchpoint to maintain relationship warmth.",
+        "riskIfIgnored": "Relationship drifts into dormancy without clear mutual value creation."
+      }
+    }
+  ],
+  "qualityFlags": {
+    "missingGoalContacts": [
+      {
+        "goalId": "series_c",
+        "goalTitle": "Raise Series C by end of Q3",
+        "missingEntity": "a16z",
+        "rationale": "Quarterly goal \"Raise Series C by end of Q3\" identifies \"a16z\" as a strategic target, but no active contact or affiliate is present in the network roster."
+      },
+      {
+        "goalId": "ai_safety",
+        "goalTitle": "Build AI Safety Relationships",
+        "missingEntity": "MIRI",
+        "rationale": "Quarterly goal \"Build AI Safety Relationships\" identifies \"MIRI\" as a strategic target, but no active contact or affiliate is present in the network roster."
+      },
+      {
+        "goalId": "ai_safety",
+        "goalTitle": "Build AI Safety Relationships",
+        "missingEntity": "Stanford CSAIL",
+        "rationale": "Quarterly goal \"Build AI Safety Relationships\" identifies \"Stanford CSAIL\" as a strategic target, but no active contact or affiliate is present in the network roster."
+      }
+    ],
+    "ambiguousNames": [
+      {
+        "name": "Shared first name \"David\"",
+        "matchingRows": [
+          8,
+          9
+        ],
+        "details": "Multiple contacts share the first name \"David\": David Liu and David Park (Rows 8, 9). Always reference by full name."
+      },
+      {
+        "name": "Shared first name \"Jensen\"",
+        "matchingRows": [
+          11,
+          21
+        ],
+        "details": "Multiple contacts share the first name \"Jensen\": Jensen Huang and Jensen Carlsson (Rows 11, 21). Always reference by full name."
+      }
+    ],
+    "thinContextContacts": [
+      {
+        "name": "Anjali Sharma",
+        "issues": [
+          "Explicit note indicating lack of follow-up depth or unknown current role"
+        ]
+      }
+    ],
+    "staleContacts": [
+      {
+        "name": "Jensen Huang",
+        "daysSinceLastContact": 199,
+        "warning": "Last contact was 199 days ago (event). Relationship status may have drifted; verify current context before high-stakes outreach."
+      },
+      {
+        "name": "Priya Mehta",
+        "daysSinceLastContact": 128,
+        "warning": "Last contact was 128 days ago (meeting). Relationship status may have drifted; verify current context before high-stakes outreach."
+      },
+      {
+        "name": "Demis Hassabis",
+        "daysSinceLastContact": 103,
+        "warning": "Last contact was 103 days ago (email). Relationship status may have drifted; verify current context before high-stakes outreach."
+      }
+    ]
+  },
+  "summaryMetrics": {
+    "contactsByGoal": {
+      "series_c": 6,
+      "cto_hire": 9,
+      "ai_safety": 8
+    },
+    "dormantHighLeverageCount": 2,
+    "thinContextCount": 1,
+    "staleDataCount": 3
+  }
+}
